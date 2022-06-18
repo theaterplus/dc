@@ -27,4 +27,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: username/412314/mltb:heroku
+          tags: karan270101/412314/mltb:heroku
